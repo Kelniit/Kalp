@@ -22,7 +22,7 @@ class YellowCart:
   >>> laptop = Product("Laptop", 1200)
   >>> cart.Append(laptop)
   >>> len(cart)
-  2
+  1
   >>> cart.Total()
   1200
   """
